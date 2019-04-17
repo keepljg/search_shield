@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+package go.micro.srv.tutu_search_bleak;
+
+
+service SearchBleak {
+    rpc UpdateShieldData(ShieldDateRequest) returns (Response) {}
+    rpc CheckKeyword(CheckWord) returns (Response) {}
+}
+
+
+message ShieldDateRequest {
+    int64 Id = 1;
+    string Match = 2;
+    string Operation = 3;
+}
+
+
+message CheckWord {
+    string Keyword = 1;
+}
+
+
+message Response {
+    Status Status = 1;
+    string Data = 2;
+}
+
+message Status {
+    int64 Code = 1;
+    string Message = 2;
+    string Time = 3;
+}

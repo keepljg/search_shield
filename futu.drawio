@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T08:42:17.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="I8OYvzQlAB70obDzIzmu" version="19.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T08:49:08.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="b2DEQL7YOzVMEe6EXAwV" version="19.0.1" type="github">
   <diagram id="n_2ISWD5A4W3zDVkRcPj" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -262,6 +262,24 @@
         </mxCell>
         <mxCell id="IPXky6w7YJsHBotgT66a-143" value="&lt;b&gt;diff&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="426" y="947" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPXky6w7YJsHBotgT66a-144" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="181" y="1196" width="344" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="IPXky6w7YJsHBotgT66a-145" value="coid_map_date_v3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="1244" width="241" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="IPXky6w7YJsHBotgT66a-147" value="order_trail_flow_info_date_v3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="1283" width="241" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IPXky6w7YJsHBotgT66a-148" value="order_trail_flow_info_date_v3_new" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="1326" width="243" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="IPXky6w7YJsHBotgT66a-150" value="汇聚库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="314" y="1141" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPXky6w7YJsHBotgT66a-152" value="data_for_report_data_v3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="263.25" y="1200" width="179.5" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
